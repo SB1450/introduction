@@ -21,3 +21,5 @@ print("Hello today we are going to generate you a password")
 length = int(input("How much long you want your password: "))
 print(f"your password is : {pass_generate(password, length)}")
 ```
+- [x] Complete
+- [ ] need to do
